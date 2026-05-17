@@ -40,4 +40,6 @@ Oracle | SQL | Firestore
 
 ## Connect With Me
 
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/basit-ul-ebad-qureshi-10a62a293/
+- Phone: +92 333 3874758
+- Email: basit.ul.ibad@gmail.com
