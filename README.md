@@ -31,12 +31,16 @@ degree.
 
 ## Projects
 
-| Project | Tech | Description |
+| Project | Tech | Link |
 |---|---|---|
-| Enterprise LMS | Flutter, Firebase, AppWrite | Large-scale learning management system with auth, backend workflows & DB migration |
-| Finance Manager App | Java (OOP) | Expense tracking and budgeting app built with modular OOP architecture |
-| School LMS Database | Oracle, SQL | Normalized relational DB schema for school management operations |
-| Multiplayer Chess (PVP) | Java | Full chess game with move validation and rule enforcement |
+| Enterprise LMS — Case Study | Flutter, Firebase, AppWrite | [View Case Study](https://github.com/Basit-ul-ebad/Enterprise-LMS-System-Case-Study-Repository) |
+| Finverse — Finance Manager | Java (OOP) | [View Project](https://github.com/Basit-ul-ebad/Finverse-OOP-Project) |
+| School LMS Database System | Oracle, SQL | [View Project](https://github.com/Basit-ul-ebad/school-lms-database-system) |
+| Multiplayer Chess (PVP) | Java | [View Project](https://github.com/Basit-ul-ebad/Procedural-Java-Chess) |
+
+> ⚠️ The Enterprise LMS source code is proprietary. The linked repository
+> contains a full case study documenting architecture decisions, database
+> design, and the Firebase → AppWrite migration I led.
 
 ---
 
@@ -44,3 +48,4 @@ degree.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Basit_Ul_Ebad-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/basit-ul-ebad-qureshi-10a62a293/)
 [![Email](https://img.shields.io/badge/Email-basit.ul.ibad@gmail.com-red?style=flat&logo=gmail)](mailto:basit.ul.ibad@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B92_333_3874758-green?style=flat&logo=whatsapp)](tel:+923333874758)
